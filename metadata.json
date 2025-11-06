@@ -1,0 +1,5 @@
+{
+  "name": "AI E-commerce Model Generator",
+  "description": "An AI-powered tool to generate professional model photoshoots for e-commerce. Users can upload garment photos, a brand logo, and select various options like model category, background theme, and aspect ratio to create stunning, ready-to-use product images.",
+  "requestFramePermissions": []
+}
